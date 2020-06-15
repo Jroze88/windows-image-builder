@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\TK_COMPONENTS\DerivedData\Components\x86_microsoft-windows-s..edsecurityupdatesai_31bf3856ad364e35_6.1.7602.20587_none_6c7aa0047dfc36e0]
+
+[HKEY_LOCAL_MACHINE\TK_COMPONENTS\DerivedData\Components\x86_microsoft-windows-s..edsecurityupdatesai_31bf3856ad364e35_6.1.7602.20587_none_6c7aa0047dfc36e0]
+"c!windowsfoundation_31bf3856ad364e35_6.1.7601.17514_0541445eeedbd616"=hex:
+"identity"=hex:4D,69,63,72,6F,73,6F,66,74,2D,57,69,6E,64,6F,77,73,2D,53,4C,43,\
+  2D,43,6F,6D,70,6F,6E,65,6E,74,2D,45,78,74,65,6E,64,65,64,53,65,63,75,72,69,\
+  74,79,55,70,64,61,74,65,73,41,49,2C,20,43,75,6C,74,75,72,65,3D,6E,65,75,74,\
+  72,61,6C,2C,20,56,65,72,73,69,6F,6E,3D,36,2E,31,2E,37,36,30,32,2E,32,30,35,\
+  38,37,2C,20,50,75,62,6C,69,63,4B,65,79,54,6F,6B,65,6E,3D,33,31,62,66,33,38,\
+  35,36,61,64,33,36,34,65,33,35,2C,20,50,72,6F,63,65,73,73,6F,72,41,72,63,68,\
+  69,74,65,63,74,75,72,65,3D,78,38,36,2C,20,76,65,72,73,69,6F,6E,53,63,6F,70,\
+  65,3D,4E,6F,6E,53,78,53
+"S256H"=hex:F2,7D,FF,1E,BC,E8,D8,CC,15,93,A6,2C,77,2D,84,F0,24,5B,ED,C9,67,2C,\
+  B7,18,33,D3,02,A8,F3,34,90,1F
+
+[HKEY_LOCAL_MACHINE\TK_SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\Winners\x86_microsoft-windows-s..edsecurityupdatesai_31bf3856ad364e35_none_b26c9b4c15d241fc]
+@="6.1"
+
+[HKEY_LOCAL_MACHINE\TK_SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\Winners\x86_microsoft-windows-s..edsecurityupdatesai_31bf3856ad364e35_none_b26c9b4c15d241fc\6.1]
+@="6.1.7602.20587"
+"6.1.7602.20587"=hex:01

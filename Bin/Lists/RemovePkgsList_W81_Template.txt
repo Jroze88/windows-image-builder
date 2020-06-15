@@ -1,0 +1,60 @@
+Component Removal Template
+==========================
+
+:: Adobe Flash For Windows
+Adobe-Flash-For-Windows-Package
+
+:: Camera App
+Microsoft-Windows-Camera-Package
+
+:: Checkpoint, F5, Juniper, SonicWALL VPN Plugins
+Checkpoint-VpnPlugin-Package
+F5-VpnPlugin-Package
+Juniper-VpnPlugin-Package
+SonicWALL-VpnPlugin-Package
+
+:: Home Group
+Microsoft-Windows-Shell-HomeGroup-Package
+
+:: Microsoft Biometrics
+Microsoft-Windows-BiometricFramework-Package
+
+:: Microsoft Hyper-V
+Microsoft-Hyper-V-ClientEdition-Package
+Microsoft-Hyper-V-ServerEdition-Package
+Microsoft-Hyper-V-Server-Drivers-Package
+Microsoft-Hyper-V-Guest-Integration-Drivers-Package
+Microsoft-Hyper-V-Common-Drivers-Package
+Microsoft-Hyper-V-Clustering-Vmclusex-package
+
+:: Microsoft Internet Explorer UI
+Microsoft-Windows-InternetExplorer-Optional-Package
+
+:: Microsoft OneDrive and Photos Apps
+Microsoft-Windows-FileManager-Package
+
+:: Parental Controls
+Microsoft-Windows-ParentalControls-Package
+
+:: Windows Defender
+Windows-Defender-Client-Package
+Windows-Defender-Group-Policy-Package
+
+:: Windows Embedded Lockdown Manager
+Microsoft-Windows-Embedded-EmbeddedLockdown-Package-TopLevel
+
+:: Windows Media Player
+Microsoft-Windows-MediaPlayer-Package
+
+:: Windows Photo Viewer
+Microsoft-Windows-PhotoBasicPackage
+
+::  Windows Search
+Microsoft-Windows-SearchEngine-Client-Package
+Microsoft-Windows-SearchEngine-Server-Package
+
+:: Windows Store Client
+Microsoft-Windows-Store-Client-Package
+
+:: Windows System Restore
+Microsoft-Windows-SystemRestore-Package

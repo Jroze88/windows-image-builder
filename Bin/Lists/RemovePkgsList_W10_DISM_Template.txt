@@ -1,0 +1,4 @@
+Microsoft-Windows-ContentDeliveryManager-Package
+Microsoft-Windows-DesktopFileExplorer-Package
+Microsoft-Windows-Management-SecureAssessment-Package
+Microsoft-Windows-Store-Client-Package
